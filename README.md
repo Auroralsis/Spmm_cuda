@@ -1,4 +1,4 @@
-# Spmm_cuda加速实现
+# SpMM_cuda加速实现
 
 ### 基本实现方法
 #### 1. 避免warp divergence
